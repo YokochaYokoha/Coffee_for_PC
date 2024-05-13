@@ -1,5 +1,5 @@
 # Coffee_for_PC  
-<img src="https://github.com/YokochaYokoha/Coffee_for_PC/blob/main/docs/sc%20(2).png?raw=true" width="50%"> 
+<img src="https://github.com/YokochaYokoha/Coffee_for_PC/blob/main/docs/sc%20(2).png?raw=true" width="50%">  
 オープンソースで無料のWindows用のインターネットブラウザーソフト!  
 一般のブラウザーにはないユニークな機能が満載!時短につながる機能も順次実装します!  
 スマートフォン版Coffeeブラウザーのブラウジング画面をPCに移植しました!  
@@ -10,14 +10,14 @@ Ver1.0 is Japanese only. English support may be implemented in the near future!
 
 # Features!  
 ・スマホ版とほぼ同じUI! PCブラウザーのUIもミックスしてさらに使いやすく!  
-<img src="https://github.com/YokochaYokoha/Coffee_for_PC/blob/main/docs/sc%20(3).png?raw=true" width="50%"> 
+<img src="https://github.com/YokochaYokoha/Coffee_for_PC/blob/main/docs/sc%20(3).png?raw=true" width="50%">  
 ・二次元コードの読み取り、書き出しに対応! サイトをすぐにデバイス間で共有できます!  
 ・ユーザーエージェントの変更機能をデフォルトで実装! サイトの表示テストにご活用いただけます!  
 ・EdgeSearchも利用可能! 画面を分割して2画面検索できます!  
-<img src="https://github.com/YokochaYokoha/Coffee_for_PC/blob/main/docs/sc%20(4).png?raw=true" width="50%"> 
+<img src="https://github.com/YokochaYokoha/Coffee_for_PC/blob/main/docs/sc%20(4).png?raw=true" width="50%">  
 ・Edge WebView2を採用! Chromium系のブラウザーです!  
 ・サイト翻訳機能を搭載!  
-<img src="https://github.com/YokochaYokoha/Coffee_for_PC/blob/main/docs/sc%20(1).png?raw=true" width="50%"> 
+<img src="https://github.com/YokochaYokoha/Coffee_for_PC/blob/main/docs/sc%20(1).png?raw=true" width="50%">  
 ・YouTubeLiveコメント分割,ホップアップ表示機能  -配信視聴画面を自由にカスタマイズ!
 ・強制終了してしまった際に活用できる"以前のセッションを復元"オプションを実装!  
 ・LatestNews受信機能-最新のバージョン通知を受け取れます
