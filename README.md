@@ -44,7 +44,7 @@ Mikan - CoffeeSub Background Image
 
 # About Coffee Browser Series -Coffee Browsers Project   
 Coffeeブラウザープロジェクトは、軽量、互換性、多用途を重視したブラウザーを様々なプラットフォームにて提供するプロジェクトです!  
-詳しくはプロジェクトの公式サイトをご覧ください!(下のアイコンから公式サイトへ移動できます)
+詳しくはプロジェクトの公式サイトをご覧ください!(下のアイコンから公式サイトへ移動できます)  
 <a href="https://sites.google.com/view/coffeebr"><img src="https://github.com/YokochaYokoha/YokochaYokoha/blob/main/coffeec.png?raw=true" width="20%"></a>  
 
 #### オープンソースライセンス表示 Microsoft WebView2 License  
