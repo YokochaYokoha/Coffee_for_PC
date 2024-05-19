@@ -30,6 +30,10 @@ Ver1.0 is Japanese only. English support may be implemented in the near future!
 
 # Miscellaneous  
 
+# Download  
+ベータ版 (不具合あります!)[https://github.com/YokochaYokoha/Coffee_for_PC/tags]  
+# Issues  
+ここから不具合情報などをご覧いただけます。(一部英語です。)[https://github.com/YokochaYokoha/Coffee_for_PC/issues]
 # Licence  
 ## YokochaYokoha B license (商標,商用利用の制限が定義されています)  
 readme[このサイト]と横茶横葉の創作物利用規約[メインサイトに記載]に従えば商用利用と商標利用を除き再利用OK!(無料ソフトウェアを作るための使用を推奨しています!)  
@@ -37,6 +41,11 @@ readme[このサイト]と横茶横葉の創作物利用規約[メインサイ�
 
 # Special Thanks!  
 Mikan - CoffeeSub Background Image  
+
+# About Coffee Browser Series -Coffee Browsers Project   
+Coffeeブラウザープロジェクトは、軽量、互換性、多用途を重視したブラウザーを様々なプラットフォームにて提供するプロジェクトです!  
+詳しくはプロジェクトの公式サイトをご覧ください!(下のアイコンから公式サイトへ移動できます)
+<a href="https://sites.google.com/view/coffeebr"><img src="https://github.com/YokochaYokoha/YokochaYokoha/blob/main/coffeec.png?raw=true" width="20%"></a>  
 
 #### オープンソースライセンス表示 Microsoft WebView2 License  
 Copyright (C) Microsoft Corporation. All rights reserved.
