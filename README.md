@@ -1,12 +1,20 @@
-# Coffee_for_PC  
+# Coffee_for_PC Ver.2.0  
 <img src="https://github.com/YokochaYokoha/Coffee_for_PC/blob/main/docs/sc%20(2).png?raw=true" width="50%">  
 オープンソースで無料のWindows用のインターネットブラウザーソフト!  
 一般のブラウザーにはないユニークな機能が満載!時短につながる機能も順次実装します!  
 スマートフォン版Coffeeブラウザーのブラウジング画面をPCに移植しました!  
 
 # What's New  
-初回リリースを行いました。不具合等はIssuesセクションに記載します。  
-Ver1.0 is Japanese only. English support may be implemented in the near future!  
+Ver.2.0 正式版をリリース! 各種ボタンの着色や、大幅な機能拡充を行いました!不具合等はIssuesセクションに記載します。  
+Key Takeaways!  
+・自己アップデート確認機能  
+・全画面自動移行機能  
+・ローカルメディア再生機能  
+・不具合修正  
+・拡張機能連携対応  
+・EdgeSearch転送機能実装!  
+・チャット枠分割機能がEdgeSearchに対応!  
+Ver2.0 is Japanese only. English support may be implemented in the near future!  
 
 # Features!  
 ・スマホ版とほぼ同じUI! PCブラウザーのUIもミックスしてさらに使いやすく!  
@@ -31,7 +39,7 @@ Ver1.0 is Japanese only. English support may be implemented in the near future!
 # Miscellaneous  
 
 # Download  
-ベータ版 (不具合あります!)[https://github.com/YokochaYokoha/Coffee_for_PC/tags]  
+ダウンロードはコチラから[https://github.com/YokochaYokoha/Coffee_for_PC/releases]  
 # Issues  
 ここから不具合情報などをご覧いただけます。(一部英語です。)[https://github.com/YokochaYokoha/Coffee_for_PC/issues]
 # Licence  
