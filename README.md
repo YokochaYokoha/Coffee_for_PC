@@ -1,4 +1,4 @@
-# Coffee_for_PC Ver.2.0  
+# Coffee_for_PC Ver.2.0 -- A Coffee Browsers Series for PC!  
 <img src="https://github.com/YokochaYokoha/Coffee_for_PC/blob/main/docs/sc%20(2).png?raw=true" width="50%">  
 オープンソースで無料のWindows用のインターネットブラウザーソフト!  
 一般のブラウザーにはないユニークな機能が満載!時短につながる機能も順次実装します!  
@@ -37,11 +37,12 @@ Ver2.0 is Japanese only. English support may be implemented in the near future!
 横茶横葉が忙しくなれば先回しになるか、雲散霧消します!  
 
 # Miscellaneous  
-
+こんな機能が欲しい! といった意見はCoffeeブラウザープロジェクト公式サイトで受け付けています!(横茶横葉は突然忙しくなったりならなかったりします。なので本当に頂いた意見が実現するかどうかは不明ですが、教えて頂いた意見は改善に繋げたいなと思います!)  
 # Download  
 ダウンロードはコチラから[https://github.com/YokochaYokoha/Coffee_for_PC/releases]  
 # Issues  
-ここから不具合情報などをご覧いただけます。(一部英語です。)[https://github.com/YokochaYokoha/Coffee_for_PC/issues]
+ここから不具合情報などをご覧いただけます。(一部英語です。)[https://github.com/YokochaYokoha/Coffee_for_PC/issues]  
+不具合報告をしていただける方は(とっても感謝!!)、issueセクションに投稿していただいてもOKですし、横茶横葉のSNSまたはメールアドレスに書き込んでいただいてもOKです!  
 # Licence  
 ## YokochaYokoha B license (商標,商用利用の制限が定義されています)  
 readme[このサイト]と横茶横葉の創作物利用規約[メインサイトに記載]に従えば商用利用と商標利用を除き再利用OK!(無料ソフトウェアを作るための使用を推奨しています!)  
