@@ -37,7 +37,11 @@ Ver2.0 is Japanese only. English support may be implemented in the near future!
 横茶横葉が忙しくなれば先回しになるか、雲散霧消します!  
 
 # Miscellaneous  
+## 機能リクエスト
 こんな機能が欲しい! といった意見はCoffeeブラウザープロジェクト公式サイトで受け付けています!(横茶横葉は突然忙しくなったりならなかったりします。なので本当に頂いた意見が実現するかどうかは不明ですが、教えて頂いた意見は改善に繋げたいなと思います!)  
+## ソースコードについて  
+私(横茶横葉)はC#の浅い知識で製作しています。効率の悪いコードや、不完全なコードなどがあるかもしれません(いえ、あるはず!)。何卒ご容赦ください! 変なところがあれば、ぜひ教えて下さい!!  
+(My C# code may be inadequate due to my lack of experience. Sorry for that....)
 # Download  
 ダウンロードはコチラから[https://github.com/YokochaYokoha/Coffee_for_PC/releases]  
 # Issues  
